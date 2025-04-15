@@ -2,6 +2,8 @@
 
 ### Olá! Eu sou Beatriz Alves 🙋
 
+Atualmente sou estudante do IFPB - Campus Guarabira, estou aprendendo cada vez mais e me aprofundando na parte de frontend, estou atualmente trabalhando como tecnica em suporte de TI ma UniNassau. 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-alves-186aa5117/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/trizalves2/)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/trizalves22)  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
 ![Beatriz Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizalves20&show_icons=true&theme=tokyonight)
